@@ -12,5 +12,5 @@ categories: jekyll update
 ---
 This project aims to understand how residents of rural communities perceive and react to extreme weather impacts, how these perceptions influence extreme weather response and adaptation, and to characterize the interdependence of community and agricultural extreme weather impacts.
 
-For this research project we aim to interview and survey members in the community. If you would like to participate please contact us at chavezd@ksu.edu.
+For this research project we aim to interview and survey members in the community. If you would like to participate please contact us at (chavezd@ksu.edu).
 
