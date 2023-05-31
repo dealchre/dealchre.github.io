@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
- Adaptive Capacity in Kansas
-
   This project aims to understand how residents of rural communities perceive and react to extreme weather impacts, how these perceptions influence extreme weather response and adaptation, and to characterize the interdependence of community and agricultural extreme weather impacts.
 
   If you are intrested in finding out more information or you would like to participate, please contact me.
