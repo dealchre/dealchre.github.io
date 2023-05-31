@@ -5,4 +5,7 @@
 layout: home
 ---
 
-This is a site to put up recruitment information
+ # Adaptive Capacity in Kansas
+
+  This project aims to understand how residents of rural communities perceive and react to extreme weather impacts, how these perceptions influence extreme weather response and adaptation, and to characterize the interdependence of community and agricultural extreme weather impacts.
+
