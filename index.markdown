@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is a site to put up recruitment information
