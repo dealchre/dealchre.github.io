@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adaptive Capacity in Kansas
+title: PhD research Website
 email: chavezd@ksu.edu
-description: This project aims to understand how residents of rural communities perceive and react to extreme weather 
- impacts, how these perceptions influence extreme weather response and adaptation, and to characterize the interdependence of community and agricultural extreme weather impacts. 
+description: #This project aims to understand how residents of rural communities perceive and react to extreme weather 
+ #impacts, how these perceptions influence extreme weather response and adaptation, and to characterize the interdependence of community and agricultural extreme weather impacts. 
  
 #>- # this means to ignore newlines until "baseurl:"
   
