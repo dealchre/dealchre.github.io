@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Adaptive Capacity in Kansas"
-date:   2023-05-30 14:26:00 -0400
-categories: jekyll update
+#layout: post
+#title:  "Adaptive Capacity in Kansas"
+#date:   2023-05-30 14:26:00 -0400
+#categories: jekyll update
 
 #Jekyll requires blog post files to be named according to the following format:
 #`YEAR-MONTH-DAY-title.MARKUP`
