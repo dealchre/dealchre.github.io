@@ -32,6 +32,11 @@ github_username:  dealchre
 theme: minima
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
