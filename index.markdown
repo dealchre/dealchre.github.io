@@ -8,11 +8,11 @@ layout: home
 ![sunset](img/sunset.jpg)
 
 ## Join Our Study
-# Uncover the Power of Rural Communities
+# ___Uncover the Power of Rural Communities___
 
 Are you curious about how rural residents like you perceive and respond to extreme weather events? Ever wondered about the fascinating interplay between community and agricultural impacts during these times? Your insights can make a difference!
 
-### Explore, Engage, and Empower
+### ___Explore, Engage, and Empower___
 
 Our project dives into the heart of rural communities to understand:
 
@@ -21,12 +21,12 @@ Our project dives into the heart of rural communities to understand:
 - **Adaptation:** How can we adapt better to these challenges?
 - **Interdependence:** Discover the intricate dance between community and agriculture in extreme weather.
 
-Your participation is crucial to unlocking the secrets of rural resilience. We invite you to be a part of this exciting journey!
+Your participation is crucial to understanding rural resilience. We invite you to be a part of this exciting journey!
 
-### Get More Information:
+### ___Get More Information:___
 If you're curious and want to learn more about our study, please don't hesitate to contact us. We're here to answer your questions and provide additional details.
 
-### Ready to Make a Difference? 
+### ___Ready to Make a Difference?___
 
 If you're ready to dive in and contribute your valuable perspective,click one of the options below to join our study.
 
