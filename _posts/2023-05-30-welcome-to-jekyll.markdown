@@ -14,7 +14,7 @@ We understand that not every opportunity is a perfect fit, and that's okay! But 
 
 In upcoming semesters, we're diving deep into subjects that affect us all:
 
-Extreme Weather & Health: Get involved in our study on extreme weather events, environmental pollution, and how they impact local human health inclusing Cancer incidences. Your insights can make a real difference in protecting our communities.
+Extreme Weather & Health: Get involved in our study on extreme weather events, environmental pollution, and how they impact local human health including Cancer incidences. Your insights can make a real difference in protecting our communities.
 
  Sun, Heat Safety & More: Ever wondered about the best practices for avoiding heat strokes and the importance of sunscreen application? We're delving into knowledge and practices that matter.
 
